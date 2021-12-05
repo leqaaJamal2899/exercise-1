@@ -1,0 +1,17 @@
+/Users/leqaajamal/Desktop/workSilverKey/OrderingPizza/bin/Debug/net6.0/OrderingPizza
+/Users/leqaajamal/Desktop/workSilverKey/OrderingPizza/bin/Debug/net6.0/OrderingPizza.deps.json
+/Users/leqaajamal/Desktop/workSilverKey/OrderingPizza/bin/Debug/net6.0/OrderingPizza.runtimeconfig.json
+/Users/leqaajamal/Desktop/workSilverKey/OrderingPizza/bin/Debug/net6.0/OrderingPizza.dll
+/Users/leqaajamal/Desktop/workSilverKey/OrderingPizza/bin/Debug/net6.0/ref/OrderingPizza.dll
+/Users/leqaajamal/Desktop/workSilverKey/OrderingPizza/bin/Debug/net6.0/OrderingPizza.pdb
+/Users/leqaajamal/Desktop/workSilverKey/OrderingPizza/obj/Debug/net6.0/OrderingPizza.csproj.AssemblyReference.cache
+/Users/leqaajamal/Desktop/workSilverKey/OrderingPizza/obj/Debug/net6.0/OrderingPizza.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leqaajamal/Desktop/workSilverKey/OrderingPizza/obj/Debug/net6.0/OrderingPizza.AssemblyInfoInputs.cache
+/Users/leqaajamal/Desktop/workSilverKey/OrderingPizza/obj/Debug/net6.0/OrderingPizza.AssemblyInfo.cs
+/Users/leqaajamal/Desktop/workSilverKey/OrderingPizza/obj/Debug/net6.0/OrderingPizza.csproj.CoreCompileInputs.cache
+/Users/leqaajamal/Desktop/workSilverKey/OrderingPizza/obj/Debug/net6.0/OrderingPizza.dll
+/Users/leqaajamal/Desktop/workSilverKey/OrderingPizza/obj/Debug/net6.0/ref/OrderingPizza.dll
+/Users/leqaajamal/Desktop/workSilverKey/OrderingPizza/obj/Debug/net6.0/OrderingPizza.pdb
+/Users/leqaajamal/Desktop/workSilverKey/OrderingPizza/obj/Debug/net6.0/OrderingPizza.genruntimeconfig.cache
+/Users/leqaajamal/Desktop/workSilverKey/OrderingPizza/bin/Debug/net6.0/Spectre.Console.dll
+/Users/leqaajamal/Desktop/workSilverKey/OrderingPizza/obj/Debug/net6.0/OrderingPizza.csproj.CopyComplete

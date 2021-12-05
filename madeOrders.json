@@ -1,0 +1,16 @@
+[
+  {
+    "UserName": "Leqaa",
+    "UserAddress": "Tagamoa",
+    "ChosenPizzas": [
+      {
+        "PizzaType": "Margherita",
+        "PizzaSize": "Medium",
+        "Toppings": [
+          "Chicken",
+          "Mushrooms"
+        ]
+      }
+    ]
+  }
+]

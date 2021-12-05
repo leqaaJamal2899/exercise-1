@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F7zX1RSxIf8FZTsv2gbDWi+I9HSYrx7KNUCrswWP3l6bNMRLxqAIcodB+ocO/UTXYXId46H6LuRGMjh8oMrK0g==",
+  "success": true,
+  "projectFilePath": "/Users/leqaajamal/Desktop/workSilverKey/OrderingPizza/OrderingPizza.csproj",
+  "expectedPackageFiles": [
+    "/Users/leqaajamal/.nuget/packages/spectre.console/0.43.0/spectre.console.0.43.0.nupkg.sha512"
+  ],
+  "logs": []
+}
